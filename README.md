@@ -1,4 +1,4 @@
-![Header](https://github.com/KhushnudEshtemirov/main_page/blob/master/assets/back.gif)
+![Header](https://github.com/KhushnudEshtemirov/KhushnudEshtemirov/blob/master/back.gif)
 
 ## Frontend Developer.
 
