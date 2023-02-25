@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/REACT-141a5e.svg?style=for-the-badge&logo=react&logoColor=lightblue)
 ![Redux](https://img.shields.io/badge/REDUX-141a5e.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
-![Github](https://img.shields.io/badge/Github-141a5e.svg?style=for-the-badge&logo=github&logoColor=pink)
+![Python](https://img.shields.io/badge/Python-141a5e.svg?style=for-the-badge&logo=python&logoColor=pink)
 
 ## Contacts
 
