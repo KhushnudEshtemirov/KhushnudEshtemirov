@@ -8,11 +8,11 @@
 
 ![Html](https://img.shields.io/badge/-Html-141a5e?style=for-the-badge&logo=html5&logoColor-47C5FB)
 ![Css](https://img.shields.io/badge/-Css-141a5e?style=for-the-badge&logo=CSS3&logoColor=blue)
+![SCSS](https://img.shields.io/badge/SCSS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a5e?style=for-the-badge&logo=JavaScript&logoColor-47C5FB)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-141a5e.svg?style=for-the-badge&logo=Typescript&logoColor=BLUE)
 ![React](https://img.shields.io/badge/REACT-141a5e.svg?style=for-the-badge&logo=react&logoColor=lightblue)
 ![Redux](https://img.shields.io/badge/REDUX-141a5e.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 ![Python](https://img.shields.io/badge/Python-141a5e.svg?style=for-the-badge&logo=python&logoColor=pink)
 
 ## Contacts
